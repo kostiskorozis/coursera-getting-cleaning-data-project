@@ -1,4 +1,4 @@
-##Variable names strings have been transformed as follows to make for more descriptive names
+Variable names strings have been transformed as follows to make for more descriptive names
 
 - replacing "t" with '[time domain signal]"
 - replacing "f" with '[frequency domain signal]"
